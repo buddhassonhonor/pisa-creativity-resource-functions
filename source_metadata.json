@@ -1,0 +1,78 @@
+{
+  "sources": [
+    {
+      "sha256": "9e4eddacd25e10c145f7bfe817fc99a5b8df544536e5ea1dfd7230c988916a8c",
+      "bytes": 2096666903,
+      "filename": "CY08MSP_STU_QQQ.SAV"
+    },
+    {
+      "sha256": "7c9d1aaeeebfb9f4741e014120ac263a7125d3c2f7d06c04e1498de5977c949e",
+      "bytes": 398416321,
+      "filename": "CY08MSP_CRT_COG.SAV"
+    }
+  ],
+  "questionnaire_N": 613744,
+  "creative_N": 499843,
+  "matched_N": 499843,
+  "scoring_version": 3,
+  "raw_items": {
+    "open_raw": [
+      "ST340Q01JA",
+      "ST340Q02JA",
+      "ST340Q03JA",
+      "ST340Q04JA",
+      "ST340Q05JA",
+      "ST340Q06JA",
+      "ST340Q07JA",
+      "ST340Q08JA",
+      "ST340Q09JA",
+      "ST340Q10JA"
+    ],
+    "eff_raw": [
+      "ST334Q01JA",
+      "ST334Q02JA",
+      "ST334Q03JA",
+      "ST334Q04JA",
+      "ST334Q05JA",
+      "ST334Q06JA",
+      "ST334Q07JA",
+      "ST334Q08JA",
+      "ST334Q09JA",
+      "ST334Q10JA"
+    ],
+    "school_raw": [
+      "ST335Q01JA",
+      "ST335Q02JA",
+      "ST335Q03JA",
+      "ST335Q05JA",
+      "ST335Q06JA",
+      "ST335Q07JA"
+    ],
+    "family_raw": [
+      "ST336Q01JA",
+      "ST336Q03JA",
+      "ST336Q04JA",
+      "ST336Q05JA",
+      "ST336Q06JA",
+      "ST336Q07JA"
+    ],
+    "per_raw": [
+      "ST307Q01JA",
+      "ST307Q02JA",
+      "ST307Q03JA",
+      "ST307Q04JA",
+      "ST307Q05JA",
+      "ST307Q06JA",
+      "ST307Q07JA",
+      "ST307Q08JA",
+      "ST307Q09JA",
+      "ST307Q10JA"
+    ]
+  },
+  "perseverance_negative": [
+    "ST307Q04JA",
+    "ST307Q06JA",
+    "ST307Q07JA",
+    "ST307Q10JA"
+  ]
+}

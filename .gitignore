@@ -1,0 +1,17 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!reproduce.py
+!verify_aggregates.py
+!source_metadata.json
+!environment.json
+!MANIFEST.json
+!experiments/
+!experiments/ssci_20261013/
+!experiments/ssci_20261013/code/
+!experiments/ssci_20261013/code/*.py
+!experiments/ssci_20261013/exp/
+!experiments/ssci_20261013/exp/*.csv
+!experiments/ssci_20261013/exp/transfer_choices.json
+!experiments/ssci_20261013/exp/prediction_loss_sums.json
