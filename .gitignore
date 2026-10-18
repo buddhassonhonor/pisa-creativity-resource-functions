@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.gitattributes
 !README.md
 !requirements.txt
 !reproduce.py
